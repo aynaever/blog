@@ -20,3 +20,5 @@ A high-level system design of the blog:
 ![System Design Blog](./public/Blog.excalidraw.png)
 
 ## References
+- https://expressjs.com/
+- https://nextjs.org/docs
