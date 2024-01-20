@@ -1,5 +1,5 @@
 # Blog
-This is very simple basic Blog, implemented using the following Tech Stack:
+This is very simple basic Blog, implemented using the following Tech Stack:  
 	- Next.js  
 	- Typescript  
 	- Prisma  
