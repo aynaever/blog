@@ -22,3 +22,4 @@ A high-level system design of the blog:
 ## References
 - Express : https://expressjs.com/
 - Next.js : https://nextjs.org/docs
+- Prisma : https://www.prisma.io/
