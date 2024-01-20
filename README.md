@@ -2,18 +2,18 @@
 This is very simple basic Blog, implemented using the following Tech Stack:  
 
 ### Frontend
-	- Next.js  
-	- Typescript  
-	- Prisma  
+- Next.js  
+- Typescript  
+- Prisma  
 
 ### Backend
-	- Express    
-	- Node.js  
-	- Wordpress (Headless CMS)  
-	- MySQL  
+- Express    
+- Node.js  
+- Wordpress (Headless CMS)  
+- MySQL  
 
 ### DevOps
-	- Docker  
+- Docker  
 
 ## Blog System Design
 A high-level system design of the blog:
